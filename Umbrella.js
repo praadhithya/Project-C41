@@ -5,7 +5,7 @@ class Umbrella {
             'restitution':0.4,
             'isStatic': true
         }
-        this.image = loadImage("images/walking_1.png");
+        this.image = loadImage("Images/walking_1.png");
         
         this.body = Bodies.circle(x,y,120,options); 
         //this.body = Bodies.circle(x,y,5);      
