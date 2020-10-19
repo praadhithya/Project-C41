@@ -10,10 +10,10 @@ var maxDrop = 1000;
 var Image1,Image2,Image3,Image4
 let song;
 function preload(){
-   Image1 = loadImage("images/1.png")
-   Image2 = loadImage("images/2.png")
-   Image3 = loadImage("images/3.png")
-   Image4 = loadImage("images/4.png")
+   Image1 = loadImage("Images/1.png")
+   Image2 = loadImage("Images/2.png")
+   Image3 = loadImage("Images/3.png")
+   Image4 = loadImage("Images/4.png")
    soundFormats('mp3', 'ogg');
    
 }
