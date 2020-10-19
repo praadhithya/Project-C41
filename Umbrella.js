@@ -6,7 +6,9 @@ class Umbrella {
             'isStatic': true
         }
         this.image = loadImage("Images/walking_1.png");
-        
+        walking_1.png
+
+
         this.body = Bodies.circle(x,y,120,options); 
         //this.body = Bodies.circle(x,y,5);      
         this.color=color(0,25,255);
